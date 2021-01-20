@@ -95,17 +95,17 @@
   dependencies:
     debug "^4.1.1"
 
-"@prisma/cli@2.15.0-dev.89":
-  version "2.15.0-dev.89"
-  resolved "https://registry.yarnpkg.com/@prisma/cli/-/cli-2.15.0-dev.89.tgz#1344657e1e07f0d5f5fb43879639abce8a90c951"
-  integrity sha512-50Z1k2sUJV94atjpgruTgk5OVfTGlU3aMqJA9yTZswjy00lpdHVszaGv0E0iMPQzIbtKJaAAMRf6mXVyb2vSqA==
+"@prisma/cli@2.15.0":
+  version "2.15.0"
+  resolved "https://registry.yarnpkg.com/@prisma/cli/-/cli-2.15.0.tgz#a979a67dbd606a966cf475686170128562590713"
+  integrity sha512-sF2mgn5oH5fL9/CKxS0tqojf0rK2BKODlEUqL+2s3YZqvJRSt4iFpiyjgajyd0wyTyv1k9LDHTV0yOD1mXDBsA==
   dependencies:
     "@prisma/engines" "2.15.0-25.e51dc3b5a9ee790a07104bec1c9477d51740fe54"
 
-"@prisma/client@2.15.0-dev.89":
-  version "2.15.0-dev.89"
-  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-2.15.0-dev.89.tgz#51d078de7942f24a1bcfecdb353634e1a2394389"
-  integrity sha512-C5xgkd/Bu3w5f/EPu5pYCwRfmUStB/DKVg/h6o0qzFvDd8kKpQ2cIWrU9sEkFODx7kutMCcOr5J5Jrh1kSAs1g==
+"@prisma/client@2.15.0":
+  version "2.15.0"
+  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-2.15.0.tgz#41ee22c60778b54aec0f6d4832c2d35fbf9eb423"
+  integrity sha512-3j4OoLpAGF104KAenUFJM9sU2+4jRP+RlrlYssBHkwBf+/5+2ihSpcmFiWIw1vXNRdmZtivjwhjcVtmjZPJktw==
   dependencies:
     "@prisma/engines-version" "2.15.0-25.e51dc3b5a9ee790a07104bec1c9477d51740fe54"
 
